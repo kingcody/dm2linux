@@ -987,7 +987,7 @@ static int dm2_probe(struct usb_interface *interface, const struct usb_device_id
 	}
 	kref_init(&dev->kref);
 	sema_init(&dev->limit_sem, WRITES_IN_FLIGHT);
-	dev->lock = SPIN_LOCK_UNLOCKED;
+	dev->lock = __SPIN_LOCK_UNLOCKED();
 
 	dev->udev = usb_get_dev(interface_to_usbdev(interface));
 	dev->interface = interface;
