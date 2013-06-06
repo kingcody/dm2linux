@@ -1,0 +1,21 @@
+Source: dm2
+Section: sound
+Priority: optional
+Maintainer: Andre Roth <lynx@netlabs.org>
+Build-Depends: debhelper (>> 4.0.0), po-debconf
+Standards-Version: 3.6.1.0
+
+Package: dm2-module-_KVERS_
+Architecture: any
+Depends: ${misc:Depends}
+Description: ALSA MIDI driver for the Mixman dm2 device
+ This package contains the loadable kernel module for the
+ Mixman dm2 DJing device.
+ See http://www.mixman.com/products/dm2.html
+ .
+ This package contains the compiled kernel module for _KVERS_
+ .
+ If you have compiled your own kernel, you will most likely need to build
+ your own dm2-module.  The dm2-source package has been
+ provided for use with the Debian kernel-package utility to produce a version
+ of dm2-module for your kernel.

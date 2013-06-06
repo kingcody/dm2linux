@@ -1,0 +1,11 @@
+dm2 (1.0) unstable; urgency=low
+
+  * Overhaul of the driver and the mixx configuration.
+
+ -- Jan Jockusch <jan@jockusch.de>  Fri, 14 May 2010 11:20:18 +0200
+
+dm2 (0.9) unstable; urgency=low
+
+  * Initial release.
+
+ -- Andre Roth <lynx@netlabs.org>  Thu, 17 Apr 2008 23:13:56 +0200

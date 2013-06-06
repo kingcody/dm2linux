@@ -1,0 +1,17 @@
+dm2 for Debian
+----------------
+
+To install the dm2 modules package you better use module-assistant. To get,
+build and install, simply run:
+
+    module-assistant auto-install dm2
+
+(or "m-a a-i dm2").
+
+To build with make-kpkg and install manually please consult the documentation
+of dpkg (manpage) and kernel-package.
+
+IMPORTANT: In order to get the LEDs on the dm2 device working, you need to
+patch your kernel with the linux-lowspeedbulk.patch.
+
+ -- Andre Roth <lynx@netlabs.org>  Fri Apr 18 14:09:15 +0200

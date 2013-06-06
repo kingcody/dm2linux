@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/dm2linux/!svn/ver/646/trunk/dm2_alsa
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/dm2linux/!svn/ver/642/trunk/dm2_alsa/LICENSE.txt
+END
+dm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/dm2linux/!svn/ver/647/trunk/dm2_alsa/dm2.c
+END
+dm2.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/dm2linux/!svn/ver/647/trunk/dm2_alsa/dm2.h
+END
+linux-lowspeedbulk.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dm2linux/!svn/ver/643/trunk/dm2_alsa/linux-lowspeedbulk.patch
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/dm2linux/!svn/ver/644/trunk/dm2_alsa/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/dm2linux/!svn/ver/642/trunk/dm2_alsa/README
+END

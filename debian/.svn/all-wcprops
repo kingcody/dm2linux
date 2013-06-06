@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/dm2linux/!svn/ver/642/trunk/dm2_alsa/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/dm2linux/!svn/ver/642/trunk/dm2_alsa/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/dm2linux/!svn/ver/642/trunk/dm2_alsa/debian/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/dm2linux/!svn/ver/649/trunk/dm2_alsa/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/dm2linux/!svn/ver/642/trunk/dm2_alsa/debian/copyright
+END
+dm2-module-_KVERS_.postinst.modules.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dm2linux/!svn/ver/642/trunk/dm2_alsa/debian/dm2-module-_KVERS_.postinst.modules.in
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/dm2linux/!svn/ver/649/trunk/dm2_alsa/debian/rules
+END
+control.modules.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/dm2linux/!svn/ver/642/trunk/dm2_alsa/debian/control.modules.in
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dm2linux/!svn/ver/642/trunk/dm2_alsa/debian/README.Debian
+END

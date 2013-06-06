@@ -1,0 +1,17 @@
+Source: dm2
+Section: sound
+Priority: optional
+Maintainer: Andre Roth <lynx@netlabs.org>
+Build-Depends: debhelper (>> 4.0.0)
+Standards-Version: 3.6.1.0
+
+Package: dm2-source
+Architecture: all
+Depends: module-assistant, debhelper (>= 5.0.37), bzip2
+Suggests: linux-headers-2.6
+Description: Source of the ALSA MIDI driver for the Mixman dm2 device
+ This package contains the source of the kernel module for the
+ Mixman dm2 DJing device.
+ See http://www.mixman.com/products/dm2.html
+ .
+ You can use module-addistant to build a modules package for specific kernel.
