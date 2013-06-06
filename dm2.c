@@ -740,7 +740,7 @@ static void dm2_midi_send(struct usb_dm2 *dev, u8 cmd, u8 param, u8 value)
 }
 
 
-static int __devinit dm2_midi_init(struct usb_dm2 *dev)
+static int dm2_midi_init(struct usb_dm2 *dev)
 {
 	struct snd_rawmidi *rmidi;
 	struct snd_card *card;
